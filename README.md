@@ -34,8 +34,10 @@ One RED LED to blink (on/off) every second, and the RGB LED to blink (change sta
 
 ## Installation 
 
-- **Prerequisites**: 
-    - **REQUIRED**: MSP-EXP432P401R ([available online](https://www.mouser.ca/ProductDetail/Texas-Instruments/MSP-EXP432P401R?qs=ttv6c7Py7lQcwH5KHMfcHA%3D%3D))
+- **Prerequisites**:
+    - **REQUIRED**: 
+        - Windows Opeating System (not campatible with Linux/Unix)
+        - MSP-EXP432P401R ([available online](https://www.mouser.ca/ProductDetail/Texas-Instruments/MSP-EXP432P401R?qs=ttv6c7Py7lQcwH5KHMfcHA%3D%3D))
     - Install the latest version of:
         - [KEIL uVision MDK-Arm](https://www2.keil.com/mdk5/install/), an IDE for Cortex and Arm devices
         - [TExaS](http://edx-org-utaustinx.s3.amazonaws.com/UT601x/RTOSdownload.html),a suite of drivers and sample programs used to test hardware
